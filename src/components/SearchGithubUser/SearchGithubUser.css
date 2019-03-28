@@ -1,0 +1,17 @@
+.SearchGithubUser {
+    margin:20px auto;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 20px;
+    box-sizing: border-box;
+
+
+}
+
+@media (min-width: 800px) {
+    .SearchGithubUser{
+        width: 500px;
+    }
+}
